@@ -1,0 +1,16 @@
+{
+  "name": "@felsgorilla/leaflet.photon",
+  "version": "1.0.0",
+  "description": "Typing for leaflet photon",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Keller",
+  "license": "ISC",
+  "keywords": ["leaflet.photon", "photon", "leaflet", "@types", "typescript"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FelsGorilla/leaflet-photon.git"
+  }
+}
